@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # PHP-KIMI-AI
-=======
+
 # PHP Kimi AI Client
 
 A robust and developer-friendly PHP Client for integrating with the Kimi AI K2 API. 
